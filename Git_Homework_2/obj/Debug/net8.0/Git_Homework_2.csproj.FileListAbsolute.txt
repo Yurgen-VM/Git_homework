@@ -1,0 +1,14 @@
+E:\Юра\Обучение\GB\Git_Homework_2\Git_Homework_2\bin\Debug\net8.0\Git_Homework_2.exe
+E:\Юра\Обучение\GB\Git_Homework_2\Git_Homework_2\bin\Debug\net8.0\Git_Homework_2.deps.json
+E:\Юра\Обучение\GB\Git_Homework_2\Git_Homework_2\bin\Debug\net8.0\Git_Homework_2.runtimeconfig.json
+E:\Юра\Обучение\GB\Git_Homework_2\Git_Homework_2\bin\Debug\net8.0\Git_Homework_2.dll
+E:\Юра\Обучение\GB\Git_Homework_2\Git_Homework_2\bin\Debug\net8.0\Git_Homework_2.pdb
+E:\Юра\Обучение\GB\Git_Homework_2\Git_Homework_2\obj\Debug\net8.0\Git_Homework_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Юра\Обучение\GB\Git_Homework_2\Git_Homework_2\obj\Debug\net8.0\Git_Homework_2.AssemblyInfoInputs.cache
+E:\Юра\Обучение\GB\Git_Homework_2\Git_Homework_2\obj\Debug\net8.0\Git_Homework_2.AssemblyInfo.cs
+E:\Юра\Обучение\GB\Git_Homework_2\Git_Homework_2\obj\Debug\net8.0\Git_Homework_2.csproj.CoreCompileInputs.cache
+E:\Юра\Обучение\GB\Git_Homework_2\Git_Homework_2\obj\Debug\net8.0\Git_Homework_2.dll
+E:\Юра\Обучение\GB\Git_Homework_2\Git_Homework_2\obj\Debug\net8.0\refint\Git_Homework_2.dll
+E:\Юра\Обучение\GB\Git_Homework_2\Git_Homework_2\obj\Debug\net8.0\Git_Homework_2.pdb
+E:\Юра\Обучение\GB\Git_Homework_2\Git_Homework_2\obj\Debug\net8.0\Git_Homework_2.genruntimeconfig.cache
+E:\Юра\Обучение\GB\Git_Homework_2\Git_Homework_2\obj\Debug\net8.0\ref\Git_Homework_2.dll
