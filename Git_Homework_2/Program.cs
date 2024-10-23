@@ -15,7 +15,7 @@
 
             double Div(int a, int b)
             {
-                return a + b;
+                return a / b;
             }
 
             int sum_result = Sum(a, b);
