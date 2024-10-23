@@ -7,7 +7,15 @@
             int a = 25;
             int b = 2;
             int c = a + b;
-            Console.WriteLine($"{a} + {b} = {c}");
+            int Sum (int a, int b)
+            {
+                return a + b;
+            }
+
+            int result = Sum (a, b);
+                
+            Console.WriteLine($"Обычное сложение: {a} + {b} = {c}");
+            Console.WriteLine($"Метод Sum {result}");
             Console.ReadLine();
         }
     }
