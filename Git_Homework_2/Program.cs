@@ -13,13 +13,13 @@
                 return a + b;
             }
 
-            double Div(int a, int b)
+            int Div(int a, int b)
             {
                 return a / b;
             }
 
             int sum_result = Sum(a, b);
-            double div_result = Div (a, b);
+            int div_result = Div (a, b);
                 
             Console.WriteLine($"Обычное сложение: {a} + {b} = {c}");
             Console.WriteLine($"Метод Sum {sum_result}");
